@@ -1,4 +1,4 @@
-package A.JavaTutorial.JavaArrays;
+package A.JavaTutorial.S.JavaArrays;
 
 public class Arrays {
 }

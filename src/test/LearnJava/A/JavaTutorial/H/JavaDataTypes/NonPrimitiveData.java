@@ -1,4 +1,4 @@
-package A.JavaTutorial.JavaDataTypes;
+package A.JavaTutorial.H.JavaDataTypes;
 
 public class NonPrimitiveData {
     public static void main(String[] args) {

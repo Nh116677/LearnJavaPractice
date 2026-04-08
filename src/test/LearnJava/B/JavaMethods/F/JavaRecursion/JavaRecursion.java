@@ -1,4 +1,4 @@
-package B.JavaMethods;
+package B.JavaMethods.F.JavaRecursion;
 
 public class JavaRecursion {
 }

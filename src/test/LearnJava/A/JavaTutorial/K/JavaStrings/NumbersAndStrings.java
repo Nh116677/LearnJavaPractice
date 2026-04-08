@@ -1,4 +1,4 @@
-package A.JavaTutorial.JavaStrings;
+package A.JavaTutorial.K.JavaStrings;
 
 public class NumbersAndStrings {
 }

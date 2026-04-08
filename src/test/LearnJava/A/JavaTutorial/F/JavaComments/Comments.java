@@ -1,4 +1,4 @@
-package A.JavaTutorial;
+package A.JavaTutorial.F.JavaComments;
 
 public class Comments {
     public static void main(String[] args) {

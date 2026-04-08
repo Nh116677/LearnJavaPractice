@@ -1,4 +1,4 @@
-package A.JavaTutorial.JavaWhileLoop;
+package A.JavaTutorial.P.JavaWhileLoop;
 
 public class CodeChallenge {
 }

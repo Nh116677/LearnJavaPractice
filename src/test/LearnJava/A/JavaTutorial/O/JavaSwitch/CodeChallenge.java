@@ -1,4 +1,4 @@
-package A.JavaTutorial.JavaSwitch;
+package A.JavaTutorial.O.JavaSwitch;
 
 public class CodeChallenge {
 }

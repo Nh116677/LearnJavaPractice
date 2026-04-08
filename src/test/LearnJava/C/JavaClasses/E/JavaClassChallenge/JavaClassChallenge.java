@@ -1,4 +1,4 @@
-package C.JavaClasses;
+package C.JavaClasses.E.JavaClassChallenge;
 
 public class JavaClassChallenge {
 }

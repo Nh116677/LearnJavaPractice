@@ -1,4 +1,4 @@
 package C.JavaClasses.R.JavaEnum;
 
-public class JavaEnum {
+public class AJavaEnums {
 }

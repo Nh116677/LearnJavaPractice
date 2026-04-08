@@ -1,4 +1,4 @@
-package C.JavaClasses.JavaModifiers;
+package C.JavaClasses.H.JavaModifiers;
 
 public class NonAccessModifiers {
 }

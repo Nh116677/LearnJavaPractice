@@ -1,4 +1,4 @@
-package B.JavaMethods;
+package B.JavaMethods.B.MethodChallenge;
 
 public class JavaMethodChallenge {
 }

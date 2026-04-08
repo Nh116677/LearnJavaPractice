@@ -1,4 +1,4 @@
-package A.JavaTutorial.JavaDataTypes;
+package A.JavaTutorial.H.JavaDataTypes;
 
 import java.util.ArrayList;
 

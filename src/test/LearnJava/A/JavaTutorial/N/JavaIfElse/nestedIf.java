@@ -1,4 +1,4 @@
-package A.JavaTutorial.JavaIfElse;
+package A.JavaTutorial.N.JavaIfElse;
 
 public class nestedIf {
 }

@@ -1,4 +1,4 @@
-package A.JavaTutorial.JavaVariables;
+package A.JavaTutorial.G.JavaVariables;
 
 public class Variables {
 }

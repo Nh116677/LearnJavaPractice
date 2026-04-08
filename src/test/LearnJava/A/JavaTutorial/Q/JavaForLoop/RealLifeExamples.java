@@ -1,4 +1,4 @@
-package A.JavaTutorial.JavaForLoop;
+package A.JavaTutorial.Q.JavaForLoop;
 
 public class RealLifeExamples {
 }

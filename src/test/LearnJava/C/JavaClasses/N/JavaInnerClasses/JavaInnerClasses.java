@@ -1,4 +1,4 @@
-package C.JavaClasses;
+package C.JavaClasses.N.JavaInnerClasses;
 
 public class JavaInnerClasses {
 }

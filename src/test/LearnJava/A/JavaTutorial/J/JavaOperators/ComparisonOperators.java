@@ -1,4 +1,4 @@
-package A.JavaTutorial.JavaOperators;
+package A.JavaTutorial.J.JavaOperators;
 
 public class ComparisonOperators {
     public static void main(String[] args) {

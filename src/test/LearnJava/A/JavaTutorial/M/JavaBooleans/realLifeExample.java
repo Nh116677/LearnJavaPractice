@@ -1,4 +1,4 @@
-package A.JavaTutorial.JavaBooleans;
+package A.JavaTutorial.M.JavaBooleans;
 
 public class realLifeExample {
 }
