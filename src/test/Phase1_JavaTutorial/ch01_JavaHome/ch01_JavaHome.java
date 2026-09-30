@@ -1,4 +1,4 @@
-package Phase1_JavaTutorial;
+package Phase1_JavaTutorial.ch01_JavaHome;
 
 public class ch01_JavaHome {
     public static void main(String[] args) {

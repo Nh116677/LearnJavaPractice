@@ -1,4 +1,4 @@
-package Phase1_JavaTutorial;
+package Phase1_JavaTutorial.ch02_JavaIntro;
 
 public class ch02_JavaIntro {
     public static void main(String[] args) {
