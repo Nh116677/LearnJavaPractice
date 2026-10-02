@@ -1,4 +1,4 @@
-package Phase1_JavaTutorial.ch06_Comments;
+package Phase1_JavaTutorial.ch06_JavaComments;
 
 public class JavaComments {
     public static void main(String[] args) {

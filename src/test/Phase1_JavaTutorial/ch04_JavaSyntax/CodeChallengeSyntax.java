@@ -1,4 +1,4 @@
-package Phase1_JavaTutorial.ch04JavaSyntax;
+package Phase1_JavaTutorial.ch04_JavaSyntax;
 
 public class CodeChallengeSyntax {
     public static void main(String[] args) {
