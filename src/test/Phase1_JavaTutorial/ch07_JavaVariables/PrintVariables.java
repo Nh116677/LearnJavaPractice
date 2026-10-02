@@ -54,6 +54,8 @@ public class PrintVariables {
         /* Explanation:
         In the first line, Java combines "The sum is " with x, creating the string "The sum is 5".  Then y is added to that string, so it becomes " The sum is 56".
 
+        In the second line, the parentheses make sure x + y is calculated first ( resulting is 11), so the output is "The sum is 11".
+
 
          */
 
